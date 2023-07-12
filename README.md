@@ -14,6 +14,18 @@
   - `*.github.io`，`*.gitee.io`等域名
 - 不能是采集站！！！！！！！！！
 - 有三篇以上的原创文章（包括三篇）
+- 站点上有我的链接
+
+### 我的信息
+
+```json
+{
+  "name": "Redish101 Blog",
+  "desc": "科技 人文 白日梦",
+  "icon": "https://blog.redish101.top/favicon.ico",
+  "link": "https://blog.redish101.top"
+}
+```
 
 ### 添加
 
