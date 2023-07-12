@@ -21,7 +21,7 @@
 ```json
 {
   "name": "Redish101 Blog",
-  "desc": "科技 人文 白日梦",
+  "desc": "人文 科技 白日梦",
   "icon": "https://blog.redish101.top/favicon.ico",
   "link": "https://blog.redish101.top"
 }
